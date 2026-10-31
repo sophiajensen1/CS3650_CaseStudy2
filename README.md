@@ -4,7 +4,7 @@ Sophia Solon
 
 
 ## Step 1: Interaction Mechanics & Input Paradigm Mapping
-In Phase 1 of my project, all 3 test participants said appointment booking was the most difficult task. This included confusing verbiage, unclear steps, and 
+In Phase 1 of my project, all 3 test participants said appointment booking was the most difficult task. This included confusing verbiage, unclear steps, and poor error handling.
 
 My redesign breaks booking into 5 clear steps:
 1. Choose a service. Plain english options.
