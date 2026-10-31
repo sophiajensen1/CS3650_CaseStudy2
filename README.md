@@ -60,11 +60,11 @@ Targets next to each other should have at least 8px of space between them.
 ## Step 3: Accessibility Architecture & WCAG Specification
  Semantic HTML Markup
 
--Service: <section> containing <form>, <fieldset>, <legend>, radio choices, and continue button
--Office: <section> contains a form with labeled search field, search button, and office-choice fieldset
--Date and Time: <section> contains a form with separate fieldsets and legends for date and time choices
--Details and review: <section> contains a form with labeled contact fields and submission button
--Confirmation: <section> contains heading, appointment details, and preparation items list.
+-Service: '<section>' containing '<form>', '<fieldset>', '<legend>', radio choices, and continue button
+-Office: '<section>' contains a form with labeled search field, search button, and office-choice fieldset
+-Date and Time: '<section>' contains a form with separate fieldsets and legends for date and time choices
+-Details and review: '<section>' contains a form with labeled contact fields and submission button
+-Confirmation: '<section>' contains heading, appointment details, and preparation items list.
 
 # ARIA and Screen Reader Hooks
 -Labels: Connect each <label> to its input
