@@ -39,11 +39,11 @@ Change actions: at least 48x48px clickable area
 
 Targets next to each other should have at least 8px of space between them.
 
-# Wireframes
-[https://www.figma.com/design/bUafh85D3lDC3oB4IlIQnD/DMV-Booking-Prototype?node-id=0-1&t=VIGpijlaVRjp3Vef-1](url)
+## Wireframes
+[View the Figma design](https://www.figma.com/design/bUafh85D3lDC3oB4IlIQnD/DMV-Booking-Prototype)
 
-# Prototype
-[https://www.figma.com/proto/bUafh85D3lDC3oB4IlIQnD/DMV-Booking-Prototype?node-id=20-236&p=f&t=uCkdlsIcvCKxrT6J-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1](url)
+## Prototype
+[Open the interactive prototype](https://www.figma.com/proto/bUafh85D3lDC3oB4IlIQnD/DMV-Booking-Prototype?node-id=20-236&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 
 # State Transition Definitions
